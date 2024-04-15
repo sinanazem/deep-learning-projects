@@ -1,6 +1,18 @@
-# Deep Learning Projects
+<div class= "row">
+   <div class=col-md-6>
+   
+   </div>
+   
+   <div class=col-md-6>
+   <img src="https://github.com/sinanazem/deep-learning-projects/blob/main/static/curiosity%20brain-cuate.png" alt="Nobel Prize" width="250" align="left" hspace="10">
+   </div>
+</div>
 
-Welcome to the Deep Learning Projects repository! This repository contains a collection of deep learning projects implemented using various frameworks and libraries.
+## Deep Learning Projects
+
+Deep learning has revolutionized various fields such as computer vision, natural language processing, and reinforcement learning. This repository serves as a hub for exploring different deep learning concepts, architectures, and applications through practical projects.
+
+Each project in this repository comes with detailed documentation, including problem statements, datasets used, implementation details, and results. Whether you're a beginner looking to learn deep learning fundamentals or an experienced practitioner exploring advanced topics, there's something here for everyone.
 
 ## Table of Contents
 
@@ -10,11 +22,7 @@ Welcome to the Deep Learning Projects repository! This repository contains a col
 4. [Contributing](#contributing)
 5. [License](#license)
 
-## Introduction
 
-Deep learning has revolutionized various fields such as computer vision, natural language processing, and reinforcement learning. This repository serves as a hub for exploring different deep learning concepts, architectures, and applications through practical projects.
-
-Each project in this repository comes with detailed documentation, including problem statements, datasets used, implementation details, and results. Whether you're a beginner looking to learn deep learning fundamentals or an experienced practitioner exploring advanced topics, there's something here for everyone.
 
 ## Project List
 

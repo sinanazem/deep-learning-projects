@@ -54,10 +54,6 @@ Here's a list of projects currently available in this repository:
 
 To use any project in this repository, simply navigate to the project directory of interest and follow the instructions provided in the project's README.md file. Each project typically includes instructions for setting up the environment, downloading datasets (if applicable), training the model, and evaluating the results.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have a deep learning project that you'd like to share, feel free to fork this repository, add your project, and submit a pull request. Please ensure that your project includes comprehensive documentation to help others understand and use it effectively.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).

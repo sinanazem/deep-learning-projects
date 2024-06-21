@@ -53,7 +53,3 @@ Here's a list of projects currently available in this repository:
 ## Usage
 
 To use any project in this repository, simply navigate to the project directory of interest and follow the instructions provided in the project's README.md file. Each project typically includes instructions for setting up the environment, downloading datasets (if applicable), training the model, and evaluating the results.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
